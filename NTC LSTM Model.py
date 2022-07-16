@@ -199,20 +199,4 @@ print(pred_price)
 #predicts next day price
 
 
-# In[41]:
-
-
-#feed the predicted price back to the model
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
